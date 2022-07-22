@@ -1,6 +1,6 @@
-Example programming problems based following the structure in Antti Laaksonen's Competitive Programmer's Handbook (https://cses.fi/book/book.pdf)
+Example programming problems following the structure in Antti Laaksonen's Competitive Programmer's Handbook (https://cses.fi/book/book.pdf).
 
-### Repo structure
+Repo structure:
 
 ```
 CompetitiveProgrammingLaaksonen/
