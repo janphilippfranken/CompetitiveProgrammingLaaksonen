@@ -9,11 +9,11 @@ CompetitiveProgrammingLaaksonen/
 │   ├── notes
 ├── 02_sorting
 │   ├── notes
-│   ├── python_implementations
+│   ├── implementation
 ├── 03_data_structures
 │   ├── notes
-│   ├── python_implementations
+│   ├── implementation
 ├── 04_complete_search
 │   ├── notes
-│   ├── python_implementations
+│   ├── implementation
 ```
