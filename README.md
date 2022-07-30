@@ -5,10 +5,9 @@ Repo structure:
 ```
 CompetitiveProgrammingLaaksonen/
 ├── README.md
-├── 01_time_complexity
-├── 02_sorting
-│   ├── sorting.ipynb
-├── 03_data_structures
-├── 04_complete_search
-│   ├── complete_search.ipynb
+├── 02_time_complexity
+├── 03_sorting
+├── 04_data_structures
+├── 05_complete_search
+├── 07_dynamic_programming
 ```
