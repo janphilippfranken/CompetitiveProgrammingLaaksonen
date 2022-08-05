@@ -10,5 +10,5 @@ CompetitiveProgrammingLaaksonen/
 ├── 04_data_structures
 ├── 05_complete_search
 ├── 07_dynamic_programming
-├── 07_amortized_analysis
+├── 08_amortized_analysis
 ```
