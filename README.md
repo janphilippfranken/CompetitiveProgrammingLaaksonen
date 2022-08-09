@@ -11,4 +11,6 @@ CompetitiveProgrammingLaaksonen/
 ├── 05_complete_search
 ├── 07_dynamic_programming
 ├── 08_amortized_analysis
+├── 09_range_queries
+├── 10_bit_representation
 ```
